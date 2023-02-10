@@ -10,7 +10,7 @@ I enjoy analysing data to be able to visualize and answer some questions.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="pexels-emily-ranquist-1205651.jpg?raw=true"/>
+<img src="images/pexels-emily-ranquist-1205651.jpg?raw=true"/>
 For this project, I analyzed Massachusette School Board Educational System in order to analyze their math performance with the focus on grade 4 math. I also wanted to check the graduation percentages of the different districts.
 
 ---
