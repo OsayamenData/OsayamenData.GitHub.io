@@ -10,8 +10,8 @@ I enjoy analysing data to be able to visualize and answer some questions.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+<img src="pexels-emily-ranquist-1205651.jpg?raw=true"/>
+For this project, I analyzed Massachusette School Board Educational System in order to analyze their math performance with the focus on grade 4 math. I also wanted to check the graduation percentages of the different districts.
 
 ---
 #### [External Link Project](https://www.linkedin.com/posts/osayamen-ozigagu_activity-7024103662490685440-I5dd?utm_source=share&utm_medium=member_desktop)
