@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/bank)
-<img src="images/pexels-emily-ranquist-1205651.jpg?raw=true"/>
+<img src="images/pexels-pixabay-265087.jpg?raw=true"/>
 I enjoy analysing data to be able to visualize and answer some questions.
 
 ---
