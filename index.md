@@ -1,4 +1,5 @@
-<img src="images/My project-1 (3).png?raw=true"/># Welcome to My Portfolio
+<img src="images/My project-1 (3).png?raw=true"/>
+# Welcome to My Portfolio
 
 ---
 
