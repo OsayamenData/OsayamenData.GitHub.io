@@ -5,10 +5,11 @@
 ---
 
 ### Learn About My Projects
+I enjoy analysing data to be able to visualize and answer some questions.
+
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/pexels-pixabay-265087.jpg?raw=true"/>
-I enjoy analysing data to be able to visualize and answer some questions.
 
 ---
 #### [Education Project](/files/Day 12 - 21 days to data.pdf)
