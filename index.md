@@ -5,8 +5,8 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+<img src="images/pexels-emily-ranquist-1205651.jpg?raw=true"/>
+I enjoy analysing data to be able to visualize and answer some questions.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
