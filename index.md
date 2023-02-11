@@ -18,17 +18,14 @@ For this project, I analyzed Massachusette School Board Educational System in or
 
 ---
 #### [FOOD DELIVERY ANALYSIS SERVICE](https://www.linkedin.com/posts/osayamen-ozigagu_activity-7024103662490685440-I5dd?utm_source=share&utm_medium=member_desktop)
-[<img src="images/DOOR-DASH1-21-2023_16-34-58.gif?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/DOOR-DASH1-21-2023_16-34-58.gif?raw=true"/>](inkedin.com/pulse/doordash-sales-analysis-using-excel-my-view-osayamen-ozigagu%3FtrackingId=YagmjufTT1C932Hiy72Z0g%253D%253D/?trackingId=YagmjufTT1C932Hiy72Z0g%3D%3D)
 Food delivery services is becoming popular in this age but I have never used one. Using Excel, I analysed a food delivery service to be able to find out who uses food delivery service more. 
 
 
 ---
 #### [Banking Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+In this case study from Data Analytics Accelerator using SQL, I was asked to analyze IDA (International Development Association). An organization that lend funds to developing and struggling countries. Here, I focused on Ethiopia and analyzed the general trend of countries that used these services. 
 
 ---
 
