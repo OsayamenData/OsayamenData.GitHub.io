@@ -24,7 +24,7 @@ Food delivery services is becoming popular in this age but I have never used one
 
 ---
 #### [Banking Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/pexels-pixabay-210574.jpg?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator using SQL, I was asked to analyze IDA (International Development Association). An organization that lend funds to developing and struggling countries. Here, I focused on Ethiopia and analyzed the general trend of countries that used these services. 
 
 ---
