@@ -12,7 +12,7 @@ I enjoy analysing data to be able to visualize and answer some questions.
 <img src="images/pexels-pixabay-265087.jpg?raw=true"/>
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/data-analysis-state-school-board-osayamen-ozigagu/))
+#### [Education Project](https://www.linkedin.com/pulse/data-analysis-state-school-board-osayamen-ozigagu/)
 <img src="images/pexels-emily-ranquist-1205651.jpg?raw=true"/>
 For this project, I analyzed Massachusette School Board Educational System in order to analyze their math performance with the focus on grade 4 math. I also wanted to check the graduation percentages of the different districts.
 
