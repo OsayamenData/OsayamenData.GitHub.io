@@ -5,16 +5,14 @@
 ---
 
 ### Learn About My Projects
-I enjoy analysing data to be able to visualize and answer some questions.
+I enjoy analyzing data to be able to visualize and answer some questions.
 
-
-#### [Internal Blog Post Project](/bank)
-<img src="images/pexels-pixabay-265087.jpg?raw=true"/>
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/data-analysis-state-school-board-osayamen-ozigagu/)
 <img src="images/pexels-emily-ranquist-1205651.jpg?raw=true"/>
 For this project, I analyzed Massachusette School Board Educational System in order to analyze their math performance with the focus on grade 4 math. I also wanted to check the graduation percentages of the different districts.
+
 
 ---
 #### [FOOD DELIVERY ANALYSIS SERVICE](https://www.linkedin.com/posts/osayamen-ozigagu_activity-7024103662490685440-I5dd?utm_source=share&utm_medium=member_desktop)
