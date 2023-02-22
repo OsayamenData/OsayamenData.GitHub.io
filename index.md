@@ -9,7 +9,7 @@ I enjoy analyzing data to be able to visualize and answer some questions.
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/data-analysis-state-school-board-osayamen-ozigagu/)
+#### [EDUCATION PROJECT](https://www.linkedin.com/pulse/data-analysis-state-school-board-osayamen-ozigagu/)
 <img src="images/pexels-emily-ranquist-1205651.jpg?raw=true"/>
 For this project, I analyzed Massachusette School Board Educational System in order to analyze their math performance with the focus on grade 4 math. I also wanted to check the graduation percentages of the different districts.
 
@@ -21,7 +21,7 @@ For this project, I analyzed Massachusette School Board Educational System in or
 
 
 ---
-#### [Banking Project]()
+#### [BANKING PROJECT]()
 [<img src="images/pexels-pixabay-210574.jpg?raw=true"/>]()
 In this case study from Data Analytics Accelerator using SQL, I was asked to analyze IDA (International Development Association). An organization that lend funds to developing and struggling countries. Here, I focused on Ethiopia and analyzed the general trend of countries that used these services. 
 
