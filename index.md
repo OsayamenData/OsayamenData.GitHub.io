@@ -23,7 +23,7 @@ I enjoy analyzing data to be able to visualize and answer some questions.
 ---
 #### [BANKING PROJECT]()
 [<img src="images/pexels-pixabay-210574.jpg?raw=true"/>]()
-<p><i>In this case study from Data Analytics Accelerator using SQL, I was asked to analyze IDA (International Development Association). An organization that lend funds to developing and struggling countries. Here, I focused on Ethiopia and analyzed the general trend of countries that used these services.<i></p> 
+In this case study from Data Analytics Accelerator using SQL, I was asked to analyze IDA (International Development Association). An organization that lend funds to developing and struggling countries. Here, I focused on Ethiopia and analyzed the general trend of countries that used these services. 
 
 ---
 
