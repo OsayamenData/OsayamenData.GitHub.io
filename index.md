@@ -16,7 +16,7 @@ I enjoy analyzing data to be able to visualize and answer some questions.
 
 ---
 #### [FOOD DELIVERY ANALYSIS SERVICE](https://www.linkedin.com/posts/osayamen-ozigagu_activity-7024103662490685440-I5dd?utm_source=share&utm_medium=member_desktop)
-<img src="images/DOOR-DASH1-21-2023_16-34-58.gif?raw=true"/> (linkedin.com/pulse/doordash-sales-analysis-using-excel-my-view-osayamen-ozigagu%3FtrackingId=YagmjufTT1C932Hiy72Z0g%253D%253D/?trackingId=YagmjufTT1C932Hiy72Z0g%3D%3D)
+<img src="images/DOOR-DASH1-21-2023_16-34-58.gif?raw=true"/> 
 <p><i>Food delivery services is becoming popular in this age but I have never used one. Using Excel, I analysed a food delivery service to be able to find out who uses food delivery service more.<i></p> 
 
 
