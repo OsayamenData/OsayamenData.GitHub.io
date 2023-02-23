@@ -7,12 +7,10 @@
 ### Learn About My Projects
 I enjoy analyzing data to be able to visualize and answer some questions.
 
-
 ---
 #### [EDUCATION PROJECT](https://www.linkedin.com/pulse/data-analysis-state-school-board-osayamen-ozigagu/)
 <img src="images/pexels-emily-ranquist-1205651.jpg?raw=true"/>
 <p><i>For this project, I analyzed Massachusette School Board Educational System in order to analyze their math performance with the focus on 4th grade math. I also wanted to check the graduation percentages of the different districts.<i></p>
-
 
 ---
 #### [FOOD DELIVERY ANALYSIS SERVICE](https://www.linkedin.com/posts/osayamen-ozigagu_activity-7024103662490685440-I5dd?utm_source=share&utm_medium=member_desktop)
