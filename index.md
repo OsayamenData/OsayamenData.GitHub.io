@@ -25,9 +25,8 @@ In this case study from Data Analytics Accelerator using SQL, I was asked to ana
 
 ---
 #### [HEALTHCARE PROJECT](https://www.linkedin.com/pulse/hospital-management-analysis-using-sql-osayamen-ozigagu%3FtrackingId=51gX6jW5SOuizp8HLVaOTg%253D%253D/?trackingId=51gX6jW5SOuizp8HLVaOTg%3D%3D))
-[<img src="images/pexels-pixabay-210574.jpg?raw=true"/>]()
-In this case study from Data Analytics Accelerator using SQL, I analyzed the way patients are care and treated without any bias like racism. Checking to see if set of standards called Hospital Metrics are met with focus on length of hospital stay. Reduction in the length of stay gives room for other patients that need hospital care, thereby preventing backlog and long wait timewas asked to analyze IDA (International Development Association).  
-
+[<img src="images/hush-naidoo-jade-photography-yo01Z-9HQAw-unsplash.jpg?raw=true"/>]()
+In this case study from Data Analytics Accelerator using SQL, I analyzed the way patients are care and treated without any bias like racism. Checking to see if set of standards called Hospital Metrics are met with focus on length of hospital stay. Reduction in the length of stay gives room for other patients that need hospital care, thereby preventing backlog and long wait time.
 
 
 ---
